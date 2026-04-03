@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ashlan Shayne U. Calizo</h1>
 <h3 align="center">BSIT 2E</h3>
 
-- About me: **I am curious and adaptable. I enjoy learning new things and figuring out how things work. I enjoy activities that challenge my thinking and focus, like solving Rubik’s cubes, learning chess, playing billiards, and working on word puzzles. I like hobbies that sharpen my mind while also being fun and engaging.**
-
+Hi! I'm Ashlan, a BSIT student who likes learning about developing. I enjoy activities that challenge my thinking and focus, like solving Rubik’s cubes, learning chess, playing billiards, and working on word puzzles. I like hobbies that sharpen my mind while also being fun and engaging. 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
